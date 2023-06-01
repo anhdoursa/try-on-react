@@ -64,8 +64,8 @@ function App() {
           right: 0,
           textAlign: "center",
           zindex: 9,
-          width: '100%',
-          height: '100vh',
+          width: 640,
+          height: 480,
         }}
       />
       <canvas
@@ -77,9 +77,9 @@ function App() {
           left: 0,
           right: 0,
           textAlign: "center",
-          zindex: 10,
-          width: '100%',
-          height: '100vh',
+          zindex: 9,
+          width: 640,
+          height: 480,
         }}
       />
     </div>
