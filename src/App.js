@@ -39,7 +39,7 @@ function App() {
       const pose = await net.estimateSinglePose(video);
       console.log(pose);
 
-      
+      alert(pose);
     }
   };
 
